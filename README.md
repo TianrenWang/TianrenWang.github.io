@@ -1,2 +1,2 @@
 # TianrenWang.github.io
-Demo of the Poltergeist
+SEG3125 Project Demo
